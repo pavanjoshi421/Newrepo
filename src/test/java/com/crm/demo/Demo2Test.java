@@ -10,5 +10,7 @@ public class Demo2Test {
 		System.err.println("Login to tyss");
 		System.out.println('P');
 		System.out.println(421);
+		System.out.println(422);
+
 	}
 }
